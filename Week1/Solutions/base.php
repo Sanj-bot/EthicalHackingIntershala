@@ -1,0 +1,19 @@
+<?php
+    echo"<h1> This the my 2nd time using php</h1>";
+    echo(2-555);
+    $a=50;
+    $b=90;
+    echo"<br>";
+    echo($a+$b);
+    echo"<br>";
+    echo($a-$b);
+    echo"<br>";
+    echo($a*$b);
+    echo"<br>";
+    echo($a/$b);
+    echo"<br>";
+    echo($a**$b);
+    echo"<br>";
+    echo($a.$b);
+    echo"<br>";
+?>
